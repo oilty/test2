@@ -25,3 +25,6 @@ ___아마도 햄버거 일것이다___
 [유튜브 링크](https://www.youtube.com/watch?v=-WY5BmznSG8&t=600s&ab_channel=DarkDreamers)
 
 [유튜부...](https://www.youtube.com/watch?v=-WY5BmznSG8&t=600s&ab_channel=DarkDreamers, " 노래 좋죠?")
+
+
+![사진입니다](./20250220_103611(1).jpg)
